@@ -1,0 +1,29 @@
+rtsp://admin:r0d0@192.168.110.9:554/cam/realmonitor?channel=1&subtype=0
+rtsp://192.168.110.9:554/cam/realmonitor?channel=1&subtype=0
+
+2 5 6 7 10 11 12
+
+
+https://doc.qt.io/archives/qt-5.10/thread-basics.html
+rtsp://192.168.110.253/Streaming/Channels/1
+rtsp://192.168.110.253/h264
+
+
+#adicionar
+
+Ajuste automatico de frames de taxa de analise baseado na perca de frames.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

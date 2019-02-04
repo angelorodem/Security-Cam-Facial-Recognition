@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>logo.png</file>
+    </qresource>
+    <qresource prefix="/utils">
+        <file>face.dat</file>
+        <file>shape.dat</file>
+    </qresource>
+</RCC>
