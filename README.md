@@ -8,3 +8,4 @@ So i used an area clustering using the smallest enclosing 128 dimensions "circle
 
 some finer tuning is needed for better accuracy while maintaining good performance,  by finding a better clustering method.
 
+compiling OpenCV and DLIB from sources (very bad explaination, you need to have some expecience compiling suff from source): [Here](https://gist.github.com/angelorodem/4633f1d04f0a80ba4a195853a179f7f7)
